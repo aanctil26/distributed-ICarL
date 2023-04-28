@@ -8,3 +8,19 @@ For additional information, kindly refer to the original iCaRL code and accompan
 
 Code: https://github.com/srebuffi/iCaRL
 Paper: https://arxiv.org/abs/1611.07725
+
+
+
+
+
+To run the code on ImageNet1000, the data must be downloaded from either the ImageNet website or Kaggle:
+https://www.kaggle.com/c/imagenet-object-localization-challenge
+
+
+
+
+
+### To run iCaRL on ImageNet where hyperparameters are hard coded into main_resnet.py:
+```
+python iCaRL-Updated-Distributed/iCaRL-Tensorflow/main_resnet_tf.py
+```
