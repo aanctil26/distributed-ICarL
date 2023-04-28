@@ -1,5 +1,6 @@
-# distributed-iCaRL
-TThis code has been refined and enhanced from the initial implementation, which can be found at the following link: https://github.com/srebuffi/iCaRL
+# iCaRL-Updated-Distributed
+
+This code has been refined and enhanced from the initial implementation, which can be found at the following link: https://github.com/srebuffi/iCaRL
 
 As the original implementation has become outdated, this repository presents a modernized version that utilizes TensorFlow 2.0 and incorporates multi-GPU training capabilities.
 
